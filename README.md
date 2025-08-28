@@ -3,3 +3,6 @@
 This is a simple example of how to use Rust xring to generate a Code128 barcode and write it to a file.
 
 I share this as I could not find any examples, and it took me some time....
+
+Another interesting candidate is https://github.com/buntine/barcoders/blob/master/README.md
+This one looks much simpler to use.
